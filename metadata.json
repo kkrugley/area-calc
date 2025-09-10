@@ -1,0 +1,5 @@
+{
+  "name": "Tile Area Calculator",
+  "description": "An application to calculate the required amount of tiles, including contingency stock. It allows entering multiple area dimensions with different units (mm, cm, m) and displays the total area in square millimeters, square centimeters, and square meters.",
+  "requestFramePermissions": []
+}
